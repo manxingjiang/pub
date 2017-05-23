@@ -2,7 +2,7 @@
 /**
  *  检测函数执行时间工具类
  *
- *  @author mxj <xxx@qq.com>
+ *  @author mxj <745139633@qq.com>
  *
  */
 
@@ -11,7 +11,7 @@ use Tools;
 /**
  *  检测函数执行时间工具类
  *
- *  @author mxj <xxx@qq.com>
+ *  @author mxj <745139633@qq.com>
  */
 class Timetest
 {
